@@ -1,3 +1,5 @@
+# Taken from https://github.com/donkirkby/live-py-plugin/blob/master/test/PySrc/tools/svg_turtle.py
+
 from collections import namedtuple
 import re
 from turtle import TNavigator, TPen
